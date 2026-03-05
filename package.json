@@ -1,7 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "solidos_geometricos_v4",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "prog_solidos4",
+  "version": "1.0.0",
+>>>>>>> af019d2198de0964477fda8e884ae64b91aa39cc
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -9,8 +14,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "commonjs",
   "devDependencies": {
     "jest": "^30.2.0"
+=======
+  "description": "",
+  "dependencies": {
+    "jest": "^30.2.0",
+    "readline-sync": "^1.4.10"
+>>>>>>> af019d2198de0964477fda8e884ae64b91aa39cc
   }
 }
